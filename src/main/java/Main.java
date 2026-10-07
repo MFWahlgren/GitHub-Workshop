@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Github Workshop");
         System.out.println("Første commit");
         System.out.println("Andet commit");
-
+        System.out.println("hej");
     }
 }
